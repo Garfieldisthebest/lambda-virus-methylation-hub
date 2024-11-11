@@ -1,6 +1,6 @@
 hub LambdaVirusMethylationHub
 shortLabel Lambda Methylation
 longLabel Methylation data for lambda virus NC_001416.1
-genomesFile https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/genomes.txt
+genomesFile https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/genomes.txt
 email wzhao@lji.org
 
