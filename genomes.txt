@@ -1,5 +1,5 @@
 genome NC_001416.1
-trackDb https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/trackDB.txt
+trackDb https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/trackDb.txt
 twoBitPath https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/lambda_virus_ref_genome_v1.2bit
 organism Lambda virus
 defaultPos NC_001416.1:1-48502
