@@ -18,8 +18,8 @@ bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-meth
 
 track ndamPositiveStrand
 type bigBed 6
-shortLabel Dam Positive Strand
-longLabel Dam-treated methylation (positive strand)
+shortLabel Non-Dam Positive Strand
+longLabel Non-Dam-treated methylation (positive strand)
 bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/ndam_positive_strand.bb
 
 track damNegativeStrand
