@@ -1,0 +1,79 @@
+track damCombined
+type bigWig
+shortLabel Dam Combined
+longLabel Dam-treated methylation (combined strand)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/dam_combined_sorted.bw
+viewLimits 0:1000
+autoScale off
+
+track damNegativeStrandAllPos
+type bigWig
+shortLabel Dam Negative All Positions
+longLabel Dam-treated methylation (negative strand, all positions)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/dam_negative_strand_allpos_modified_sorted.bw
+viewLimits 0:1000
+autoScale off
+
+track damNegativeStrand
+type bigWig
+shortLabel Dam Negative Strand
+longLabel Dam-treated methylation (negative strand)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/dam_negative_strand_sorted.bw
+viewLimits 0:1000
+autoScale off
+
+track damPositiveStrandAllPos
+type bigWig
+shortLabel Dam Positive All Positions
+longLabel Dam-treated methylation (positive strand, all positions)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/dam_positive_strand_allpos_modified_sorted.bw
+viewLimits 0:1000
+autoScale off
+
+track damPositiveStrand
+type bigWig
+shortLabel Dam Positive Strand
+longLabel Dam-treated methylation (positive strand)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/dam_positive_strand_sorted.bw
+viewLimits 0:1000
+autoScale off
+
+track ndamCombined
+type bigWig
+shortLabel Non-Dam Combined
+longLabel Non-Dam-treated methylation (combined strand)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/ndam_combined_sorted.bw
+viewLimits 0:1000
+autoScale off
+
+track ndamNegativeStrandAllPos
+type bigWig
+shortLabel Non-Dam Negative All Positions
+longLabel Non-Dam-treated methylation (negative strand, all positions)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/ndam_negative_strand_allpos_modified_sorted.bw
+viewLimits 0:1000
+autoScale off
+
+track ndamNegativeStrand
+type bigWig
+shortLabel Non-Dam Negative Strand
+longLabel Non-Dam-treated methylation (negative strand)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/ndam_negative_strand_sorted.bw
+viewLimits 0:1000
+autoScale off
+
+track ndamPositiveStrandAllPos
+type bigWig
+shortLabel Non-Dam Positive All Positions
+longLabel Non-Dam-treated methylation (positive strand, all positions)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/ndam_positive_strand_allpos_modified_sorted.bw
+viewLimits 0:1000
+autoScale off
+
+track ndamPositiveStrand
+type bigWig
+shortLabel Non-Dam Positive Strand
+longLabel Non-Dam-treated methylation (positive strand)
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/ndam_positive_strand_sorted.bw
+viewLimits 0:1000
+autoScale off
