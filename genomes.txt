@@ -1,2 +1,2 @@
 genome NC_001416.1
-trackDb NC_001416.1/trackDb.txt
+trackDb https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/trackDb.txt
