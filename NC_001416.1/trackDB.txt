@@ -77,3 +77,27 @@ longLabel Dam-treated methylation (negative strand, all positions)
 bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/dam_negative_strand_allpos_modified_sorted.bw
 viewLimits 0:1000
 autoScale off
+
+track GATCMotifsPositive
+type bigWig
+shortLabel GATC Motifs Positive
+longLabel GATC Motif Positions on Positive Strand
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/GATC_motifs_positive.bw
+viewLimits 0:1000
+autoScale off
+
+track GATCMotifsNegative
+type bigWig
+shortLabel GATC Motifs Negative
+longLabel GATC Motif Positions on Negative Strand
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/GATC_motifs_negative.bw
+viewLimits 0:1000
+autoScale off
+
+track GATCMotifsCombined
+type bigWig
+shortLabel GATC Motifs Combined
+longLabel GATC Motif Positions Combined Strands
+bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/GATC_motifs_combined.bw
+viewLimits 0:1000
+autoScale off
