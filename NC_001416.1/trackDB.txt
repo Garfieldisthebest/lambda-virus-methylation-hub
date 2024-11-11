@@ -57,5 +57,3 @@ type bigBed 6
 shortLabel Non-Dam Negative All Positions
 longLabel Non-Dam-treated methylation (negative strand, all positions)
 bigDataUrl https://raw.githubusercontent.com/Garfieldisthebest/lambda-virus-methylation-hub/main/NC_001416.1/ndam_negative_strand_allpos_modified.bb
-
-
