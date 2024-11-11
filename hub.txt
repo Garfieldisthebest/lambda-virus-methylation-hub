@@ -1,0 +1,5 @@
+hub LambdaVirusMethylationHub
+shortLabel Lambda Methylation
+longLabel Methylation data for lambda virus NC_001416.1 (Dam and non-Dam treated)
+genomesFile genomes.txt
+email wzhao@lji.org

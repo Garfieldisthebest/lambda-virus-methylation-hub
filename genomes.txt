@@ -1,0 +1,2 @@
+genome NC_001416.1
+trackDb NC_001416.1/trackDb.txt
